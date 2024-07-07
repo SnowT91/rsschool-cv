@@ -32,6 +32,8 @@ console.log(multiply(4)(3)); // 12
 
 ## Education:
 - **Volga State University of Water Transport, Electrical Engineering**
+- **RS School, JS/FE Pre-school**
+- **RS School, JS/FE 2023Q1**
 
 ## English Proficiency:
 
