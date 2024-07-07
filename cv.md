@@ -26,14 +26,14 @@ console.log(multiply(4)(3)); // 12
 ```
 
 ## Work Experience:
-- **Developed various front-end components using HTML, CSS, and JavaScript.
-- **mplemented responsive design principles to ensure compatibility across different devices.
-- **Worked on a team to create a small web application as a part of a course project.
+- **Developed various front-end components using HTML, CSS, and JavaScript.**
+- **mplemented responsive design principles to ensure compatibility across different devices.**
+- **Worked on a team to create a small web application as a part of a course project.**
 
 ## Education:
-- **Volga State University of Water Transport, Electrical Engineering
+- **Volga State University of Water Transport, Electrical Engineering**
 
 ## English Proficiency:
 
-- **Level: A2
-- **Experience: Gained practical experience in using English during my tenure in international maritime transportation, which involved regular communication in English with international clients and colleagues.
+- **Level: A2**
+- **Experience: Gained practical experience in using English during my tenure in international maritime transportation, which involved regular communication in English with international clients and colleagues.**
