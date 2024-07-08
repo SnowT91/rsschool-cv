@@ -27,7 +27,7 @@ console.log(multiply(4)(3)); // 12
 
 ## Work Experience:
 - **Developed various front-end components using HTML, CSS, and JavaScript.**
-- **mplemented responsive design principles to ensure compatibility across different devices.**
+- **Implemented responsive design principles to ensure compatibility across different devices.**
 - **Worked on a team to create a small web application as a part of a course project.**
 
 ## Education:
