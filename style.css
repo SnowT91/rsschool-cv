@@ -39,7 +39,7 @@ footer {
   display: flex;
   font-weight: bold;
   max-width: 100%;
-  background-color: rgb(68, 95, 114);
+  background-color: #333;
 }
 
 footer__icon {
